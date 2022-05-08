@@ -11,8 +11,23 @@
 		</dict>
 		<key>SwiftUIBootcamp (macOS).xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1FD9D2EF282517DB00615110</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1FD9D2F5282517DB00615110</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

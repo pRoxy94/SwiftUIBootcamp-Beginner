@@ -55,7 +55,7 @@ struct SoulView: View {
     @Binding var selectedTab: Int
     var body: some View {
 	   ZStack {
-		  Color.red.ignoresSafeArea()
+		  Color.orange.ignoresSafeArea()
 		  
 		  VStack {
 			 Text("Soul Tab")
@@ -63,7 +63,7 @@ struct SoulView: View {
 			 .font(.largeTitle)
 			 
 			 Button(action: {
-				selectedTab = 2
+				selectedTab = 3
 			 }, label: {
 				Text("Go To Profile")
 				    .font(.headline)

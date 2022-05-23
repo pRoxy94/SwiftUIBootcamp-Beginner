@@ -53,7 +53,6 @@ struct PickerBootcamp: View {
 //				}
 //			 }, label: {
 //		  })
-//		  .pickerStyle(MenuPickerStyle())
 //	   }, label: {
 //		  HStack {
 //			 Text("Filter:")
